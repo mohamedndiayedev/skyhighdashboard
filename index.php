@@ -60,7 +60,7 @@
 		If(isset($_POST['submit'])){
 			$mail 		= $_POST['Email'];
 			$password 	= $_POST['Password'];
-			$sql = "SELECT * FROM `user` WHERE `Email`='$mail' AND `Password`='$password'";
+			$sql = "SELECT * FROM user WHERE Email='$mail' AND Password='$password'";
 			$result = $conn->query($sql);
 				if($result->num_rows > 0){
 					$_SESSION['isLoggedIn'] = TRUE;
@@ -73,7 +73,7 @@
 			         }	
 				}
 				else{
-				$ssql = "SELECT * FROM `user` WHERE `Email`='$mail' AND `OTP`='$password'";
+				$ssql = "SELECT * FROM user WHERE Email='$mail' AND OTP='$password'";
 				$results = $conn->query($ssql);
 					if($results->num_rows > 0){	
 					$_SESSION['isLoggedIn'] = TRUE;
