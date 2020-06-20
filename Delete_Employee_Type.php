@@ -14,7 +14,7 @@
         showConfirmButton: false,
       },
       window.load = function(){
-        window.location='http://localhost/project/employee_type.php';
+        window.location='http://localhost/skyhighdashboard/employee_type.php';
       });
     }
   </script>
