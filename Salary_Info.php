@@ -21,7 +21,7 @@
 						<div id="pay-invoice">
 							<div class="card-body">
 								
-                                <form action="save_salary_info.php" method="post" novalidate="novalidate" id="salary_info_form">
+                                <form action="Salary_Info.php" method="post" novalidate="novalidate" id="salary_info_form">
 									
 									<div class="row">
 										<div class="col-6">
