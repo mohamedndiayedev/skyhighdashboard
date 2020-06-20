@@ -15,6 +15,7 @@
 			},
 			window.load = function(){
 				window.location='Salary_Info.php';
+				header("Location: Salary_Info.php");
 			});
 		}
 	</script>
