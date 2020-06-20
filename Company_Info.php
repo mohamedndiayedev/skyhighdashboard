@@ -62,6 +62,8 @@
 											</div>
 											<div class="col-4">
 												<div class="form-group">
+													
+													
 													<label for="company_zip" class=" form-control-label">Zip / Postal Code</label>
 													<input type="text"  value="<?php echo $row['company_zip']; ?>" class="form-control" readonly>
 												</div>
