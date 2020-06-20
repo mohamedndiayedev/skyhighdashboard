@@ -15,7 +15,7 @@
 				showConfirmButton: false,
 			},
 			window.load = function(){
-				window.location='http://localhost/skyhighdashboard/dept_info.php';
+				window.location='dept_info.php';
 			});
 		}
 		function MyCheckFn(){
@@ -27,7 +27,7 @@
 				showConfirmButton: false,
 			},
 			window.load = function(){
-				window.location='http://localhost/skyhighdashboard/dept_info.php';
+				window.location='dept_info.php';
 			});
 		}
 	</script>
