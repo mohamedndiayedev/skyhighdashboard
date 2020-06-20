@@ -14,7 +14,7 @@
 				showConfirmButton: false,
 			},
 			window.load = function(){
-				window.location='http://localhost/skyhighdashboard/acess_control.php';
+				window.location='acess_control.php';
 			});
 		}
 		function MyMFn(){
