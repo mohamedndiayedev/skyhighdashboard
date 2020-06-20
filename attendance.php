@@ -38,7 +38,7 @@
 					showConfirmButton: false,
 				},
                 window.load = function(){
-					window.location='http://localhost/skyhighdashboard/attendance.php';
+					window.location='attendance.php';
 				});
 				ff.innerHTML = "";
 				//alert("Invalid File. Valid File is Only " + validExtension + " Type.");
