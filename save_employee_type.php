@@ -16,7 +16,7 @@
 				showConfirmButton: false,
 			},
 			window.load = function(){
-				window.location='http://localhost/skyhighdashboard/employee_type.php';
+				window.location='employee_type.php';
 			});
 		}
 		function MyCheckFn(){
