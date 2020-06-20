@@ -14,7 +14,7 @@
         showConfirmButton: false,
       },
       window.load = function(){
-        window.location='employee_type.php';
+        window.location='Employee_Type.php';
       });
     }
   </script>
