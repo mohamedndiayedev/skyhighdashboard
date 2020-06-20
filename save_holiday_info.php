@@ -15,7 +15,7 @@
 				showConfirmButton: false,
 			},
 			window.load = function(){
-				window.location='http://localhost/skyhighdashboard/holiday_info.php';
+				window.location='holiday_info.php';
 			});
 		}
 		function MyCheckFn(){
