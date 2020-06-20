@@ -14,7 +14,7 @@
         showConfirmButton: false,
       },
       window.load = function(){
-        window.location='http://localhost/project/dept_info.php';
+        window.location='d9c88q3e09w6fdb2.cbetxkdyhwsb.us-east-1.rds.amazonaws.com/dept_info.php';
       });
     }
   </script>
