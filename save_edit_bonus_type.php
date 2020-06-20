@@ -14,7 +14,7 @@
 				showConfirmButton: false,
 			},
 			window.load = function(){
-				window.location='http://localhost/skyhighdashboard/bonus_type.php';
+				window.location='bonus_type.php';
 			});
 		}
 	</script>
