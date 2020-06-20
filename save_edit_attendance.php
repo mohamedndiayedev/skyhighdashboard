@@ -14,7 +14,7 @@
 				showConfirmButton: false,
 			},
 			window.load = function(){
-				window.location='http://localhost/skyhighdashboard/fixed_attendance.php';
+				window.location='fixed_attendance.php';
 			});
 		}
 	</script>
