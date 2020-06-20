@@ -14,7 +14,7 @@
         showConfirmButton: false,
       },
       window.load = function(){
-        window.location='http://localhost/skyhighdashboard/Outdoor_emp_work.php';
+        window.location='Outdoor_emp_work.php';
       });
     }
   </script>
