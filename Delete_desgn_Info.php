@@ -14,7 +14,7 @@
         showConfirmButton: false,
       },
       window.load = function(){
-        window.location='http://localhost/project/desgn_info.php';
+        window.location='desgn_info.php';
       });
     }
   </script>
