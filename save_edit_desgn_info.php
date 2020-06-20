@@ -14,7 +14,7 @@
 				showConfirmButton: false,
 			},
 			window.load = function(){
-				window.location='http://localhost/skyhighdashboard/desgn_info.php';
+				window.location='desgn_info.php';
 			});
 		}
 	</script>
