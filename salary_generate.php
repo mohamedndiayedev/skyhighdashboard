@@ -14,7 +14,7 @@
 				showConfirmButton: false,
 			},
 			window.load = function(){
-				window.location='http://localhost/skyhighdashboard/salary_generate.php';
+				window.location='salary_generate.php';
 			});
 		}
 	</script>
