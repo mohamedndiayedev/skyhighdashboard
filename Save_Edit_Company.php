@@ -14,7 +14,7 @@
 				showConfirmButton: false,
 			},
 			window.load = function(){
-				window.location='http://localhost/skyhighdashboard/Company_Info.php';
+				window.location='Company_Info.php';
 			});
 		}
 	</script>
