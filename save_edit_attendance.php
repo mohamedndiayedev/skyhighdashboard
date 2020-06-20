@@ -15,6 +15,7 @@
 			},
 			window.load = function(){
 				window.location='fixed_attendance.php';
+				header("Location: fixed_attendance.php");
 			});
 		}
 	</script>
