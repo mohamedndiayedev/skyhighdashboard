@@ -28,5 +28,6 @@
 	ON user.Name = employee_info.employee_name
 	WHERE employee_info.employee_id='" . $_GET["employee_id"] . "'");
     echo "<script type= 'text/javascript'>MydeleteFn();
-	</script>";
+  </script>";
+  header("Location: view_Employee.php");
 ?>
