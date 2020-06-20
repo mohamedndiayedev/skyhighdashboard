@@ -220,7 +220,7 @@
 										
 										<div class="stat-icon dib"><i class="ti-time text-success border-success"></i></div>
 										<div class="stat-content dib">
-											<div class="stat"> Summery</div>
+											<div class="stat"> Summary</div>
 										</div>
 										
 									</div>
