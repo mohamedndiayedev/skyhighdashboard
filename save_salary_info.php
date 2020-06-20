@@ -16,7 +16,7 @@
 				showConfirmButton: false,
 			},
 			window.load = function(){
-				window.location='http://localhost/skyhighdashboard/salary_info.php';
+				window.location='salary_info.php';
 			});
 		}
 		function MyCheckFn(){
