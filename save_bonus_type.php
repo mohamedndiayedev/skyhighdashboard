@@ -16,6 +16,7 @@
 			},
 			window.load = function(){
 				window.location='bonus_type.php';
+				header("Location: bonus_type.php");
 			});
 		}
 		function MyCheckFn(){
