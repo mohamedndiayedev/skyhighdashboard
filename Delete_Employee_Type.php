@@ -15,10 +15,10 @@
       },
       window.load = function(){
         window.location='Employee_Type.php';
+        header("Location: Employee_Type.php");
       });
     }
   </script>
- header("Location: Employee_Type.php");
 </header>
 <?php
     mysqli_query($conn,"DELETE FROM employee_type WHERE employee_type_id='" . $_GET["employee_type_id"] . "'");
